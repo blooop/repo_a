@@ -1,5 +1,5 @@
 {
-	"name": "python_template",
+	"name": "repo_a",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"context": ".."

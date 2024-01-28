@@ -125,8 +125,8 @@
 			"type": "shell",
 			"dependsOn": [
 				"update from template repo",
-				"rename template project name",
-				"update from template repo",				
+				"rename template project name and commit",
+				// "update from template repo",				
 			],
 			"dependsOrder": "sequence",
 		},
